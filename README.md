@@ -10,6 +10,10 @@
 For the first half of the season, my team had been using a 4-bar, pneumatically actuated intake (which I built in collaboration with my teammate Ruemu Otoba). But as software improved, the design's fundamental weaknesses began to bottleneck our match performance. This document details my redesign solution.
 
 ### Problem statement
+
+<img src="images/99--4bar_bad.jpg" alt="the problem" width="500">
+
+
 Our original 4-bar pneumatic intake exhibited critical weaknesses that severely limited our match performance:
 
 - **Inability to retract:** fixed maximum robot hitbox and moment of inertia, reducing maneuverability and making defensive collisions riskier 
@@ -17,7 +21,9 @@ Our original 4-bar pneumatic intake exhibited critical weaknesses that severely 
 - **Low throughput:** driven by a single x44, its three rollers were low surface speed and prone to jamming under load. Our chosen pneumatic pistons were unable to retract the weight of a beefier or additional motor
 - **Structural vulnerability:** pneumatic pistons were susceptible to bending under lateral impact (sideswipes)
 - **Limited reach:** the large side plates (required as bumper hard-stops) obstructed roller access to field corners
-- **Poor compatibility with net hopper:** the 4-bar retraction resulted in tangling with our net hopper 
+- **Poor compatibility with net hopper:** the 4-bar retraction resulted in tangling with our net hopper
+
+
 
 ### Redesign constraints
 - **Retrofit:** must integrate seamlessly with existing chassis as of Week 4 of competition season
@@ -28,6 +34,25 @@ Our original 4-bar pneumatic intake exhibited critical weaknesses that severely 
 - Curved MaxComposite 10DP gear racks, 1/8th inch aluminum frame
 - Deployment powertrain: dual Kraken X44s, 8.8:1 reduction. Deploys or retracts in just in 0.5 seconds at 50% speed (~4000 rpm)
 - Roller powertrain: two VersaRollers driven by single Kraken X60, 1.83:1 reduction
+
+<table>
+    <tr>
+        <td align="center" colspan="2">
+            assembly
+        </td>
+    <tr>
+        <td align="center">
+            <img src="images/1--assembly-process.jpeg" alt="assembly day">
+            <br>
+            8hr build sessions, 6 days a week
+        </td>
+        <td align="center">
+            <img src="images/2--closeup_on_robot.jpeg" alt="protobot">
+            <br>
+            v1 finally mounted on practice bot!
+        </td>
+    </tr>
+</table>
 
 ### Results and performance
 - Robust to high-speed impact and sideswipes
@@ -50,4 +75,6 @@ Our original 4-bar pneumatic intake exhibited critical weaknesses that severely 
    - Successfully retrofit onto robot
    - Compatible with net hopper without tangling
    - First prototype worked as intended
+
+<img src="images/full_robot.jpg" alt="final robot" width="500">
 
