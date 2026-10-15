@@ -78,18 +78,18 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
 <table>
     <tr>
         <td align="center" colspan="2">
-            demo videso
+            demo videos
         </td>
     <tr>
         <td align="center">
-            label
+            smooth retraction and deployment
             <br>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/IM5rVlk1QAA?si=C8KmkQ0HaRozU9KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            [![vid 1](https://img.youtube.come/vi/MMHbAyub7HM/0.jpg)](https://www.youtube.com/watch?v=MMHbAyub7HM)
         </td>
         <td align="center">
             label
             <br>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/oN_C8yo74B4?si=UCIBtgI0751JF53G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            [![vid 2](https://img.youtube.come/vi/IM5rVlk1QAA/0.jpg)](https://www.youtube.com/watch?v=IM5rVlk1QAA)
         </td>
     </tr>
 </table>
