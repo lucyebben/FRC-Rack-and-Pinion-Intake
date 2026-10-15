@@ -1,7 +1,9 @@
 # FRC-Rack-and-Pinion-Intake
 *Robot intake mechanism for "Rebuilt", the 2026 FIRST Robotics Competition season*
 
+[View Onshape CAD](https://cad.onshape.com/documents/a036a6573e37a133ac6f1799/w/2494c921d1af4438c1d661c5/e/08d2872df777d5daded781c5)
 ![CAD screenshot](/assets/images/CAD_5.png)
+
 
 ### Overview
 For the first half of the season, my team had been using a 4-bar, pneumatically actuated intake (which I built in collaboration with my teammate Ruemu Otoba). But as software improved, the design's fundamental weaknesses began to bottleneck our match performance. This document details my redesign solution.
