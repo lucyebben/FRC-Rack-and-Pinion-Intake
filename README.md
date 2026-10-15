@@ -13,8 +13,7 @@ For the first half of the season, my team had been using a 4-bar, pneumatically 
 
 <img src="images/99--4bar_bad.jpg" alt="the problem" width="500">
 
-
-Our original 4-bar pneumatic intake exhibited critical weaknesses that severely limited our match performance:
+Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critical weaknesses that severely limited our match performance:
 
 - **Inability to retract:** fixed maximum robot hitbox and moment of inertia, reducing maneuverability and making defensive collisions riskier 
 - **Unreliable indexing:** any game pieces stuck in dead space behind rollers wouldn’t get indexed due to lack of agitation capability (no “chewing”)
@@ -25,7 +24,7 @@ Our original 4-bar pneumatic intake exhibited critical weaknesses that severely 
 
 
 
-### Redesign constraints
+### Constraints for a redesign
 - **Retrofit:** must integrate seamlessly with existing chassis as of Week 4 of competition season
 - **Weight:** total assembly ≤12 lbs. This was really hard
 - **No second chances:** zero time for prototyping. Must one-shot first design and ship
