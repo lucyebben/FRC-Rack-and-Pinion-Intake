@@ -41,12 +41,12 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
         </td>
     <tr>
         <td align="center">
-            <img src="images/1--assembly-process.jpeg" alt="assembly day">
+            <img src="images/1--assembly-process.jpeg" alt="assembly day" width ="400">
             <br>
             8hr build sessions, 6 days a week
         </td>
         <td align="center">
-            <img src="images/2--closeup_on_robot.jpeg" alt="protobot">
+            <img src="images/2--closeup_on_robot.jpeg" alt="protobot" width ="400">
             <br>
             v1 finally mounted on practice bot!
         </td>
@@ -75,5 +75,23 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
    - Compatible with net hopper without tangling
    - First prototype worked as intended
 
-<img src="images/full_robot.jpg" alt="final robot" width="500">
+<table>
+    <tr>
+        <td align="center" colspan="2">
+            demo videso
+        </td>
+    <tr>
+        <td align="center">
+            label
+            <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IM5rVlk1QAA?si=C8KmkQ0HaRozU9KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </td>
+        <td align="center">
+            label
+            <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/oN_C8yo74B4?si=UCIBtgI0751JF53G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </td>
+    </tr>
+</table>
 
+<img src="images/full_robot.jpg" alt="final robot" width="500">
