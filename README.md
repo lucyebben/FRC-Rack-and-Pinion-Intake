@@ -44,12 +44,12 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
         <td align="center">
             <img src="misc assets/assembly closeup.jpeg" alt="assembly day" width ="400">
             <br>
-            8hr build sessions, 6 days a week
+            50-hour weeks at build 
         </td>
         <td align="center">
             <img src="misc assets/protobot closeup.jpeg" alt="protobot" width ="400">
             <br>
-            v1 finally mounted on practice bot!
+            v1 gets mounted on practice bot!
         </td>
     </tr>
 </table>
