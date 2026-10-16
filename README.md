@@ -77,9 +77,9 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
 
 | demo videos | notice: |
 | :--- | :--- |
-| [![vid1](https://img.youtube.com/vi/MMHbAyub7HM/0.jpg)](https://www.youtube.com/watch?v=MMHbAyub7HM) | retracts and deploys smoothly |
-| [![vid2](https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg)](https://www.youtube.com/watch?v=IM5rVlk1QAA) | high throughput |
-| [![vid3](https://img.youtube.com/vi/oN_C8yo74B4/0.jpg)](https://www.youtube.com/watch?v=oN_C8yo74B4) | touch it, own it |
-| [![vid4](https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg)](https://www.youtube.com/watch?v=rj-Wks3ZgOo) | compatible with a net |
+| <a href="https://www.youtube.com/watch?v=MMHbAyub7HM" target="_blank"> <img src="https://img.youtube.com/vi/MMHbAyub7HM/0.jpg" alt="Watch video" width="400"> </a> | retracts and deploys smoothly |
+| <a href="https://www.youtube.com/watch?v=IM5rVlk1QAA" target="_blank"> <img src="https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg" alt="Watch video" width="400"> </a> | high throughput |
+| <a href="https://www.youtube.com/watch?v=oN_C8yo74B4" target="_blank"> <img src="https://img.youtube.com/vi/oN_C8yo74B4/0.jpg" alt="Watch video" width="400"> </a> | touch it, own it |
+| <a href="https://www.youtube.com/watch?v=rj-Wks3ZgOo" target="_blank"> <img src="https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg" alt="Watch video" width="400"> </a> | compatible with a net |
 
 <img src="images/full_robot.jpg" alt="final robot" width="500">
