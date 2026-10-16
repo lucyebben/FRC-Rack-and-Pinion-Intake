@@ -6,8 +6,10 @@
 <img src="CAD/1--CAD-isometric_perspective.png" alt="CAD screenshot" width="500">
 
 
-### Overview
+## Overview
 For the first half of the season, my team had been using a 4-bar, pneumatically actuated intake (which I built in collaboration with my teammate Ruemu Otoba). But as software improved, the design's fundamental weaknesses began to bottleneck our match performance. This document details my redesign solution.
+
+## Details
 
 ### Problem statement
 
@@ -21,7 +23,6 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
 - **Structural vulnerability:** pneumatic pistons were susceptible to bending under lateral impact (sideswipes)
 - **Limited reach:** the large side plates (required as bumper hard-stops) obstructed roller access to field corners
 - **Poor compatibility with net hopper:** the 4-bar retraction resulted in tangling with our net hopper
-
 
 
 ### Constraints for a redesign
@@ -75,11 +76,31 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
    - Compatible with net hopper without tangling
    - First prototype worked as intended
 
-| demo videos | notice: |
-| :--- | :--- |
-| <a href="https://www.youtube.com/watch?v=MMHbAyub7HM" target="_blank"> <img src="https://img.youtube.com/vi/MMHbAyub7HM/0.jpg" alt="Watch video" width="400"> </a> | retracts and deploys smoothly |
-| <a href="https://www.youtube.com/watch?v=IM5rVlk1QAA" target="_blank"> <img src="https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg" alt="Watch video" width="400"> </a> | high throughput |
-| <a href="https://www.youtube.com/watch?v=oN_C8yo74B4" target="_blank"> <img src="https://img.youtube.com/vi/oN_C8yo74B4/0.jpg" alt="Watch video" width="400"> </a> | touch it, own it |
-| <a href="https://www.youtube.com/watch?v=rj-Wks3ZgOo" target="_blank"> <img src="https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg" alt="Watch video" width="400"> </a> | compatible with a net |
+## Media
 
+#### Demo Videos
+| 1 | 2 | 3 | 4 |
+| :--- | :--- | :--- | :--- |
+| <a href="https://www.youtube.com/watch?v=MMHbAyub7HM" target="_blank"> <img src="https://img.youtube.com/vi/MMHbAyub7HM/0.jpg" alt="Watch video" width="250"> </a> | <a href="https://www.youtube.com/watch?v=IM5rVlk1QAA" target="_blank"> <img src="https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg" alt="Watch video" width="250"> </a> | <a href="https://www.youtube.com/watch?v=oN_C8yo74B4" target="_blank"> <img src="https://img.youtube.com/vi/oN_C8yo74B4/0.jpg" alt="Watch video" width="250"> </a> | <a href="https://www.youtube.com/watch?v=rj-Wks3ZgOo" target="_blank"> <img src="https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg" alt="Watch video" width="250"> </a> |
+| retracts and deploys smoothly | high throughput | touch it, own it | compatible with a net |
+
+<!-- not using
+#### Demo Videos
+<table>
+  <tr>
+    <td>1) retracts and deploys smoothly</td>
+    <td>2) high throughput</td>
+    <td>3) touch it, own it</td>
+    <td>4) compatible with a net</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=MMHbAyub7HM" target="_blank"><img src="https://img.youtube.com/vi/MMHbAyub7HM/0.jpg" alt="Watch video" width="250"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=IM5rVlk1QAA" target="_blank"><img src="https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg" alt="Watch video" width="250"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=oN_C8yo74B4" target="_blank"><img src="https://img.youtube.com/vi/oN_C8yo74B4/0.jpg" alt="Watch video" width="250"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=rj-Wks3ZgOo" target="_blank"><img src="https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg" alt="Watch video" width="250"></a></td>
+  </tr>
+</table>
+-->
+
+#### Final product
 <img src="images/full_robot.jpg" alt="final robot" width="500">
