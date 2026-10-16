@@ -42,12 +42,12 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
         </td>
     <tr>
         <td align="center">
-            <img src="images/1--assembly-process.jpeg" alt="assembly day" width ="400">
+            <img src="misc assets/assembly closeup.jpeg" alt="assembly day" width ="400">
             <br>
             8hr build sessions, 6 days a week
         </td>
         <td align="center">
-            <img src="images/2--closeup_on_robot.jpeg" alt="protobot" width ="400">
+            <img src="misc assets/protobot closeup.jpeg" alt="protobot" width ="400">
             <br>
             v1 finally mounted on practice bot!
         </td>
