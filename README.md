@@ -75,23 +75,11 @@ Our [original 4-bar pneumatic intake](images/98--4bar_bad.jpg) exhibited critica
    - Compatible with net hopper without tangling
    - First prototype worked as intended
 
-<table>
-    <tr>
-        <td align="center" colspan="2">
-            demo videos
-        </td>
-    <tr>
-        <td align="center">
-            smooth retraction and deployment
-            <br>
-            [![vid 1](https://img.youtube.come/vi/MMHbAyub7HM/0.jpg)](https://www.youtube.com/watch?v=MMHbAyub7HM)
-        </td>
-        <td align="center">
-            label
-            <br>
-            [![vid 2](https://img.youtube.come/vi/IM5rVlk1QAA/0.jpg)](https://www.youtube.com/watch?v=IM5rVlk1QAA)
-        </td>
-    </tr>
-</table>
+| demo videos | notice: |
+| :--- | :--- |
+| [![vid1](https://img.youtube.com/vi/MMHbAyub7HM/0.jpg)](https://www.youtube.com/watch?v=MMHbAyub7HM) | retracts and deploys smoothly |
+| [![vid2](https://img.youtube.com/vi/IM5rVlk1QAA/0.jpg)](https://www.youtube.com/watch?v=IM5rVlk1QAA) | high throughput |
+| [![vid3](https://img.youtube.com/vi/oN_C8yo74B4/0.jpg)](https://www.youtube.com/watch?v=oN_C8yo74B4) | touch it, own it |
+| [![vid4](https://img.youtube.com/vi/rj-Wks3ZgOo/0.jpg)](https://www.youtube.com/watch?v=rj-Wks3ZgOo) | compatible with a net |
 
 <img src="images/full_robot.jpg" alt="final robot" width="500">
